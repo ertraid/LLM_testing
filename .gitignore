@@ -1,0 +1,6 @@
+/.env
+/.langchain_crash_course
+/.venv
+/langchain_crash_course.zip
+/secret_keys.py
+/__pycache__

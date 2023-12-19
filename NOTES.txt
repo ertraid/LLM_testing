@@ -1,0 +1,1 @@
+HF with Pytorch seems to support many mor models than TF - https://huggingface.co/docs/transformers/index
